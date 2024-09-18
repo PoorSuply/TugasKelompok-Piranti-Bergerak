@@ -4,9 +4,7 @@ Alianur (2209106025)
 
 Muhammad Arianda Saputra(2209106027)
 
-
-
-aplikasi sederhana menggunakan komponen-komponen dibawah ini :
+##### aplikasi sederhana menggunakan komponen-komponen dibawah ini :
 1. Container
 2. Columns & Row
 3. Stack
